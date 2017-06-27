@@ -1,0 +1,4 @@
+name = Previous Next Node
+description = "Implementation of helper functions provided by the Previous/Next API module"
+core = 7.x
+package = Website Customizations
